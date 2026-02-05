@@ -1,63 +1,134 @@
-# Privacy Policy for Smart CutList
+CabinetPro – Cut List & Nesting
+Privacy Policy
 
-**Last Updated:** January 2, 2026
+Last updated: February 5, 2026
 
-## Introduction
+This Privacy Policy explains how CabinetPro – Cut List & Nesting (“we”, “our”, or “the developer”) handles user data and the terms under which the app may be used.
 
-Smart CutList ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+1. Privacy & Data Collection
 
-## Information We Collect
+The app works primarily offline.
 
-### Data Collection
-Smart CutList is designed with privacy in mind. Our application:
+No personal data (such as name, email, phone number, location, or contacts) is collected, stored, or shared by the developer.
 
-- **Does NOT collect personal information**: We do not collect, store, or transmit any personal data, user accounts, or identifiable information.
-- **Local Storage Only**: All data (cupboard designs, dimensions, cut lists) is stored locally on your device.
-- **No Internet Connection Required**: The app works completely offline and does not require internet connectivity.
+All design inputs, calculations, layouts, cut lists, and generated files (PDF or other exports) are stored locally on the user’s device only.
 
-### Device Information
-- The app may access device storage only to save your designs locally on your device.
-- No data is sent to external servers or third parties.
+No analytics, tracking, advertising SDKs, or third-party data collection services are used.
 
-## How We Use Information
+2. How Data Is Used
 
-Since we do not collect any personal information, there is no data to use, share, or sell. All your designs and calculations remain on your device.
+Data is used only to provide core app functionality, including:
 
-## Data Security
+Cabinet design (2D / 3D)
 
-- All data is stored locally on your device
-- No data transmission occurs
-- No cloud storage or external servers are used
-- You have full control over your data
+Cut list generation
 
-## Third-Party Services
+Sheet nesting calculations
 
-Smart CutList does not integrate with any third-party services, analytics tools, or advertising networks.
+Data remains on your device unless you explicitly export or share it.
 
-## Children's Privacy
+3. Exports & Sharing
 
-Our app does not collect any information from anyone, including children. The app is safe for users of all ages.
+If you choose to export or share designs, cut lists, or PDF files:
 
-## Changes to This Privacy Policy
+Files are generated locally on your device
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+You control where and how they are shared
 
-## Your Rights
+The developer does not receive, store, or access exported files.
 
-Since we do not collect any personal data, you have complete control over:
-- Your designs and calculations (stored locally on your device)
-- You can delete the app at any time, which will remove all local data
+4. Third-Party Services
 
-## Contact Us
+The app does not use third-party services except Google Play Billing.
 
-If you have any questions about this Privacy Policy, please contact us at:
-- Email: [Your Email Address]
-- GitHub: [Your GitHub Repository URL]
+Google Play Billing is used only for:
 
-## Consent
+Purchasing subscriptions
 
-By using Smart CutList, you consent to this Privacy Policy.
+Verifying active subscription status
 
----
+Restoring purchases
 
-**Note:** This app is a local design tool and does not require internet connectivity or collect any user data.
+No other user data is transmitted to external servers.
+
+5. Internet Usage
+
+Internet connection is required only for:
+
+Purchasing a subscription
+
+Verifying or restoring subscription status via Google Play
+
+Offline functionality:
+Once the subscription is verified, all design tools, calculations, sheet nesting, and PDF exports work fully offline.
+
+6. Children’s Privacy
+
+This app is not intended for children under the age of 13.
+
+We do not knowingly collect personal information from children.
+
+7. Use of the App (Important Disclaimer)
+
+This app is a helper tool for measurements, cut lists, and material planning.
+
+It is not a certified engineering, architectural, or professional measurement tool.
+
+Users must manually verify all measurements before cutting or manufacturing any material.
+
+8. Accuracy Disclaimer
+
+All calculations and outputs are provided “as-is”.
+
+Accuracy may vary due to:
+
+Material thickness variations
+
+Joinery and construction methods
+
+Cabinet design differences
+
+Human judgment and handling
+
+Users are responsible for confirming all dimensions and calculations before use.
+
+9. Liability Disclaimer
+
+By using this app:
+
+The developer is not responsible for incorrect cuts, material waste, tool damage, or financial loss.
+
+The developer cannot control machinery, tools, workmanship, or human error.
+
+Use of the app is entirely at your own risk.
+
+10. Data Security
+
+All app data is stored locally on your device.
+
+We recommend protecting your device with a screen lock, PIN, or biometric security.
+
+11. Data Deletion
+
+Users can delete all local data by:
+
+Deleting projects within the app (where available)
+
+Clearing app data from Android system settings
+
+Uninstalling the app
+
+12. Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+
+Continued use of the app after updates indicates acceptance of the revised policy.
+
+13. Contact Information
+
+Developer: Mahii
+Email: varsanim501@gmail.com
+
+14. Consent
+
+By using this app and purchasing a subscription, you agree to this Privacy Policy and the applicable subscription terms.
