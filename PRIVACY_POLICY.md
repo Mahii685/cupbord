@@ -1,4 +1,4 @@
-CabinetPro – Cut List & Nesting
+Cabinet & Cupboard Cut List
 Privacy Policy
 
 Last updated: February 5, 2026
