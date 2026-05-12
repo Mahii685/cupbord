@@ -1,47 +1,37 @@
-Cabinet & Cupboard Cut List - Privacy Policy
+Cabinet & Cupboard Cut List: Privacy Policy
 Last updated: May 12, 2026
-
-This Privacy Policy explains how CabinetPro – Cut List & Nesting (“we”, “our”, or “the developer”) handles user data. By using the app, you agree to the terms outlined below.
 
 1. Privacy & Data Collection
 The app is designed to respect user privacy and works primarily offline.
 
-No Personal Data: We do not collect, store, or share personal information such as names, emails, phone numbers, or locations.
+No Direct Personal Data: We do not directly collect, store, or share personal information such as names, emails, phone numbers, or precise location.
 
-Local Storage: All design inputs, calculations, and generated PDF files are stored locally on your device only.
+Technical Identifiers: While we do not collect personal data, technical identifiers (such as FCM tokens and device information) may be processed by third-party services (Google Firebase) to provide app functionality.
 
-Push Notifications (Firebase): We use Google Firebase Cloud Messaging (FCM) to send notifications about app updates and new free features. This service uses a unique device identifier (FCM Token) which does not reveal your personal identity.
+Local Storage: All design inputs, project data, and calculations are stored locally on your device only.
 
-Analytics: We use Google Analytics for Firebase to understand app performance and improve user experience. This data is aggregated and anonymous.
+Push Notifications (Firebase): We use Firebase Cloud Messaging (FCM) to send app-related notifications, such as feature updates. This uses a technical identifier (FCM token) to deliver messages to your specific device.
 
-Google Play Services: Our app uses Google Play Services and Firebase, which may collect information in accordance with their own privacy policies.
+Analytics: We use Google Analytics for Firebase to understand app performance and improve the user experience. Analytics data is used only in an aggregated and anonymous form.
 
-2. App Functionality & Offline Use
-CabinetPro is now a 100% Free tool.
+2. Children’s Privacy
+Target Audience: This app is a technical carpentry and design tool. It is intended for use by adults or individuals above the age of 18.
 
-No Subscriptions: We have deactivated all in-app purchases and subscriptions.
+No Knowing Collection from Children: We do not knowingly collect personal information from children under the age of 13 (or under applicable local legal age limits).
 
-Core Tools: All features, including 2D/3D design, cut list generation, and sheet nesting, are available for free.
+Parental Supervision: If a minor uses this app, it should be done strictly under the supervision of a parent or guardian.
 
-Internet Usage: Internet is only used for receiving push notifications and basic app analytics. All core calculations work fully offline.
+3. App Functionality
+100% Free: All features of CabinetPro are now free for all users. All previous in-app purchases and subscriptions have been deactivated.
 
-3. Accuracy & Liability Disclaimer
-Helper Tool: This app is a helper tool for measurements and material planning. It is not a certified professional measurement tool.
+Offline Use: All core tools, including cut list generation and nesting, work fully offline. Internet access is mainly required for receiving notifications and providing basic analytics.
 
-Verification Required: Users must manually verify all measurements and cut lists before cutting or manufacturing any material.
+4. Accuracy & Liability Disclaimer
+Verification Required: Users must manually verify all measurements, layouts, and cut lists before starting any cutting or manufacturing process.
 
-No Liability: The developer  is not responsible for incorrect cuts, material waste, tool damage, or any financial loss resulting from the use of this app. Use is entirely at your own risk.
-
-4. Data Deletion
-Users can delete all data by:
-
-Deleting projects within the app.
-
-Clearing app data from Android system settings.
-
-Uninstalling the app.
+Liability Limitation: To the maximum extent permitted by law, the developer is not liable for material waste, tool damage, physical injury, or financial loss resulting from the use of this app. Use of the app is entirely at your own risk.
 
 5. Contact Information
-Developer: mahendra
+Developer: Mahendra
 
 Email: varsanim501@gmail.com
