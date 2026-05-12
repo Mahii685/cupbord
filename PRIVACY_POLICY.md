@@ -1,134 +1,47 @@
-Cabinet & Cupboard Cut List
-Privacy Policy
+Cabinet & Cupboard Cut List - Privacy Policy
+Last updated: May 12, 2026
 
-Last updated: February 5, 2026
-
-This Privacy Policy explains how CabinetPro – Cut List & Nesting (“we”, “our”, or “the developer”) handles user data and the terms under which the app may be used.
+This Privacy Policy explains how CabinetPro – Cut List & Nesting (“we”, “our”, or “the developer”) handles user data. By using the app, you agree to the terms outlined below.
 
 1. Privacy & Data Collection
+The app is designed to respect user privacy and works primarily offline.
 
-The app works primarily offline.
+No Personal Data: We do not collect, store, or share personal information such as names, emails, phone numbers, or locations.
 
-No personal data (such as name, email, phone number, location, or contacts) is collected, stored, or shared by the developer.
+Local Storage: All design inputs, calculations, and generated PDF files are stored locally on your device only.
 
-All design inputs, calculations, layouts, cut lists, and generated files (PDF or other exports) are stored locally on the user’s device only.
+Push Notifications (Firebase): We use Google Firebase Cloud Messaging (FCM) to send notifications about app updates and new free features. This service uses a unique device identifier (FCM Token) which does not reveal your personal identity.
 
-No analytics, tracking, advertising SDKs, or third-party data collection services are used.
+Analytics: We use Google Analytics for Firebase to understand app performance and improve user experience. This data is aggregated and anonymous.
 
-2. How Data Is Used
+Google Play Services: Our app uses Google Play Services and Firebase, which may collect information in accordance with their own privacy policies.
 
-Data is used only to provide core app functionality, including:
+2. App Functionality & Offline Use
+CabinetPro is now a 100% Free tool.
 
-Cabinet design (2D / 3D)
+No Subscriptions: We have deactivated all in-app purchases and subscriptions.
 
-Cut list generation
+Core Tools: All features, including 2D/3D design, cut list generation, and sheet nesting, are available for free.
 
-Sheet nesting calculations
+Internet Usage: Internet is only used for receiving push notifications and basic app analytics. All core calculations work fully offline.
 
-Data remains on your device unless you explicitly export or share it.
+3. Accuracy & Liability Disclaimer
+Helper Tool: This app is a helper tool for measurements and material planning. It is not a certified professional measurement tool.
 
-3. Exports & Sharing
+Verification Required: Users must manually verify all measurements and cut lists before cutting or manufacturing any material.
 
-If you choose to export or share designs, cut lists, or PDF files:
+No Liability: The developer  is not responsible for incorrect cuts, material waste, tool damage, or any financial loss resulting from the use of this app. Use is entirely at your own risk.
 
-Files are generated locally on your device
+4. Data Deletion
+Users can delete all data by:
 
-You control where and how they are shared
+Deleting projects within the app.
 
-The developer does not receive, store, or access exported files.
+Clearing app data from Android system settings.
 
-4. Third-Party Services
+Uninstalling the app.
 
-The app does not use third-party services except Google Play Billing.
+5. Contact Information
+Developer: mahendra
 
-Google Play Billing is used only for:
-
-Purchasing subscriptions
-
-Verifying active subscription status
-
-Restoring purchases
-
-No other user data is transmitted to external servers.
-
-5. Internet Usage
-
-Internet connection is required only for:
-
-Purchasing a subscription
-
-Verifying or restoring subscription status via Google Play
-
-Offline functionality:
-Once the subscription is verified, all design tools, calculations, sheet nesting, and PDF exports work fully offline.
-
-6. Children’s Privacy
-
-This app is not intended for children under the age of 13.
-
-We do not knowingly collect personal information from children.
-
-7. Use of the App (Important Disclaimer)
-
-This app is a helper tool for measurements, cut lists, and material planning.
-
-It is not a certified engineering, architectural, or professional measurement tool.
-
-Users must manually verify all measurements before cutting or manufacturing any material.
-
-8. Accuracy Disclaimer
-
-All calculations and outputs are provided “as-is”.
-
-Accuracy may vary due to:
-
-Material thickness variations
-
-Joinery and construction methods
-
-Cabinet design differences
-
-Human judgment and handling
-
-Users are responsible for confirming all dimensions and calculations before use.
-
-9. Liability Disclaimer
-
-By using this app:
-
-The developer is not responsible for incorrect cuts, material waste, tool damage, or financial loss.
-
-The developer cannot control machinery, tools, workmanship, or human error.
-
-Use of the app is entirely at your own risk.
-
-10. Data Security
-
-All app data is stored locally on your device.
-
-We recommend protecting your device with a screen lock, PIN, or biometric security.
-
-11. Data Deletion
-
-Users can delete all local data by:
-
-Deleting projects within the app (where available)
-
-Clearing app data from Android system settings
-
-Uninstalling the app
-
-12. Changes to This Policy
-
-This Privacy Policy may be updated from time to time.
-
-Continued use of the app after updates indicates acceptance of the revised policy.
-
-13. Contact Information
-
-Developer: Mahii
 Email: varsanim501@gmail.com
-
-14. Consent
-
-By using this app and purchasing a subscription, you agree to this Privacy Policy and the applicable subscription terms.
